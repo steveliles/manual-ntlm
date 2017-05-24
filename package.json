@@ -1,0 +1,9 @@
+{
+  "name": "manual-ntlm",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  },
+  "author": "Steve Liles",
+  "license": "ISC"
+}
